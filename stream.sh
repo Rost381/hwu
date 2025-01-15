@@ -1,4 +1,3 @@
-
 #!/bin/bash
+curl http://localhost:7999/stream
 
-url http://localhost:7999/stream
