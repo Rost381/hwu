@@ -1,3 +1,4 @@
 #!/bin/bash
 
-uwsgi --http :9090 --wsgi-file app.py
+clear
+uwsgi --ini uwsgi.ini
