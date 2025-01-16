@@ -1,2 +1,0 @@
-[start]
-cmd = "uwsgi --ini uwsgi.ini"
